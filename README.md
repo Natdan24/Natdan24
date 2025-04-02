@@ -53,6 +53,7 @@ Feature engineering enhancements (e.g., spectral contrast, chroma features)
 
 Expanding datasets for real-world robustness
 
+
 🩺 Explainable ML for BP
 
 2. 🧠 Explainable ML for BP
@@ -70,6 +71,7 @@ Predicted blood pressure values and compared them with actual values.
 
 Analyzed and visualized feature importance.
 
+
 3. 🏥 Patient Readmission Prediction using H2O AutoML
 This project utilizes H2O AutoML to predict critical patient discharge and readmission risks using the eICU Collaborative Research Database. By automating model selection and hyperparameter tuning, we efficiently identify the best predictive model for hospital readmission.
 
@@ -85,6 +87,7 @@ This project utilizes H2O AutoML to predict critical patient discharge and readm
 📈 AUC: 1.0
 
 🏆 Impact: This project demonstrates how AutoML can optimize healthcare analytics, helping hospitals allocate resources efficiently and improve patient care.
+
 
 4.🔬 Cervical Cancer Prediction using Machine Learning
 This project explores machine learning techniques for early detection of cervical cancer using image-based classification. It leverages Gaussian Mixture Models (GMM) and Probabilistic Neural Networks (PNN) to analyze cervical images and identify cancerous regions. The study focuses on advanced feature extraction techniques to enhance predictive accuracy.
