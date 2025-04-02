@@ -30,21 +30,28 @@
 
 ### 🚀 *Projects*:
 
-🎵 ML_Chord_Recognition
-1. 🔮 ML_Chord_Recognition
-📝 Description: This project is a deep learning-based system for recognizing musical chords from audio files. The system processes audio, generates spectrograms, and trains a CNN-RNN model to classify chords. It also supports real-time chord recognition from audio input.
+🎵 Musical_Instrument_Recognition using Tradional Methods
+1. 🔮 ML_Instrument_Classification
+📝 Description: 
+This project explores the adaptation of a GMM-SVM hybrid model, originally designed for speaker identification, to classify musical instruments. By leveraging MFCC feature extraction, GMM-based modeling, and SVM classification, we achieve robust results in distinguishing between 10 instrument classes. We further optimize classification accuracy through dimensionality reduction (PCA/LDA) and dataset-specific parameter tuning.
 
-🔧 Technologies:
+📌 Key Features:
+✅ MFCC-based feature extraction
+✅ GMM probability modeling
+✅ SVM classification with log-likelihood inputs
+✅ Dataset of 10 instrument classes
 
-🎯 Key Contributions:
+🔬 Results:
+🎻 Highest accuracy: 91% (LSTM Model)
+🎵 Traditional GMM-SVM approach: 83% accuracy
 
-Processed audio files into spectrograms.
+🚀 Future Scope:
 
-Trained a CNN-RNN model for chord classification.
+Exploring hybrid models (e.g., GMM-SVM + LSTM)
 
-Supported real-time chord recognition.
+Feature engineering enhancements (e.g., spectral contrast, chroma features)
 
-Used the "IDMT-SMT-GUITAR_V2" Dataset from the Fraunhofer website.
+Expanding datasets for real-world robustness
 
 🩺 Explainable ML for BP
 
@@ -63,23 +70,41 @@ Predicted blood pressure values and compared them with actual values.
 
 Analyzed and visualized feature importance.
 
-3. 📰 Fake-News-ML
-📝 Description: Fake News detection using the Liar dataset by William. This project utilizes various classifier algorithms to predict the veracity of news articles.
+3. 🏥 Patient Readmission Prediction using H2O AutoML
+This project utilizes H2O AutoML to predict critical patient discharge and readmission risks using the eICU Collaborative Research Database. By automating model selection and hyperparameter tuning, we efficiently identify the best predictive model for hospital readmission.
 
-🔧 Technologies:
+📌 Key Features:
+✅ Data preprocessing with feature engineering
+✅ Handling class imbalance in critical discharge cases
+✅ AutoML-driven model selection for optimal performance
+✅ Exploratory data analysis to identify key risk factors
 
-🎯 Key Contributions:
+🔬 Results:
+🚀 Best Model: Gradient Boosting Machine (GBM)
+📊 Accuracy: 99%
+📈 AUC: 1.0
 
-Implemented multiple classifier algorithms: Naive Bayes, Support Vector Machine, Logistic Regression, and Random Forest.
+🏆 Impact: This project demonstrates how AutoML can optimize healthcare analytics, helping hospitals allocate resources efficiently and improve patient care.
 
-Processed and analyzed the Liar dataset.
+4.🔬 Cervical Cancer Prediction using Machine Learning
+This project explores machine learning techniques for early detection of cervical cancer using image-based classification. It leverages Gaussian Mixture Models (GMM) and Probabilistic Neural Networks (PNN) to analyze cervical images and identify cancerous regions. The study focuses on advanced feature extraction techniques to enhance predictive accuracy.
 
-Achieved significant accuracy in detecting fake news.
+📌 Key Features:
+✅ Image preprocessing with Histogram Division & Entropy Measurement
+✅ Feature extraction using Lab Color Space & GLCM
+✅ Classification using GMM & PNN for robust predictions
+✅ Implemented in MATLAB for image processing & neural network training
+
+🔬 Results:
+🚀 Improved classification accuracy through advanced feature engineering
+📊 Efficient segmentation of cervical images for early cancer detection
 
 ### 🏆 *Certificates*:
 
-- 📜 *Google Python Certificate*  
+- 📜 *Python Training Certificate IIT Bombay*  
 - 🔐 *Machine Learning Certificate Lema Labs IIT-Madras*
+- 📜 *Best Paper Award in Computation Intelligence and Data Science NCCCIDS 2020*
+- 📜 *R Programming*  
 
 ---
 
