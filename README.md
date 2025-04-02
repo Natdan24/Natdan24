@@ -79,7 +79,7 @@ Achieved significant accuracy in detecting fake news.
 ### 🏆 *Certificates*:
 
 - 📜 *Google Python Certificate*  
-- 🔐 **
+- 🔐 *Machine Learning Certificate Lema Labs IIT-Madras*
 
 ---
 
@@ -87,4 +87,4 @@ Achieved significant accuracy in detecting fake news.
 
 ### 📫 *Get in Touch*:
 
-- 💌 Feel free to reach out to me via [Email](mailto:siddharth.shetty109@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sid7shetty/).
+- 💌 Feel free to reach out to me via [Email](mailto:natasha.dan7@gmail.com) or [LinkedIn](https://www.linkedin.com/in/natasha-shereen-benita-132b70227/).
