@@ -31,7 +31,7 @@ _M.Sc. Artificial Intelligence • Data Explorer • Tech Communicator_
 | **Survey of Cervical Cancer Prediction**   | MATLAB, Image Processing, Probabilistic NN      | [Repo](https://github.com/Natdan24/Survey_cervical_Cancer_prediction)                |
 | **Hospital Readmission Prediction**        | Python, Pandas, Scikit-Learn, H2O AutoML        | [Repo](https://github.com/Natdan24/Hospital_Readmission_prediction)                   |
 | **AI Email Assistant**                     | Python, Streamlit, Mistral-7B, LM Studio        | [Repo](https://github.com/Natdan24/ai-email-assistant)                                |
-| **This Portfolio Site**                    | React, Vite, Tailwind                           | [Repo](https://github.com/Natdan24/my-portfolio)                                      |
+| **My Portfolio Site**                    | React, Vite, Tailwind                           | [Repo](https://github.com/Natdan24/my-portfolio)                                      |
 
 ---
 
@@ -79,7 +79,7 @@ _M.Sc. Artificial Intelligence • Data Explorer • Tech Communicator_
 </details>
 
 <details>
-<summary><strong>🌐 This Portfolio Site</strong></summary>
+<summary><strong>🌐 My Portfolio Site</strong></summary>
 
 - **Stack:** React, Vite, Tailwind CSS  
 - **Summary:** Personal portfolio showcasing AI and EDA projects in a single-page flip-card design.  
@@ -91,12 +91,13 @@ _M.Sc. Artificial Intelligence • Data Explorer • Tech Communicator_
 
 ## 🎓 Education & Certifications
 
-- **M.Sc. in Artificial Intelligence**, Brandenburg University of Technology  
+- **M.Sc. in Artificial Intelligence**, Brandenburg University of Technology
+- **B.Tech in Computer Science and Engineering** Sathyabama University 
 - **Certifications & Awards:**  
   - Elements of AI – University of Helsinki  
   - Python Training Certificate – IIT Bombay  
   - Machine Learning Certificate – Lema Labs (IIT Madras)  
-  - Best Paper Award – NCCCIDS 2020  
+  - Best Paper Award – NCCIDS 2020  
   - R Programming Certificate  
 
 ---
