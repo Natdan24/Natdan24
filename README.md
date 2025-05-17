@@ -27,15 +27,41 @@ _M.Sc. Artificial Intelligence • Data Explorer • Tech Communicator_
 
 | Project                                    | Stack                                           | Link                                                                                  |
 |:-------------------------------------------|:------------------------------------------------|:--------------------------------------------------------------------------------------|
+| **Braitenburg Vehicles Lab**               | Unreal Engine, C++, Blueprints                  | [Repo](https://github.com/Natdan24/Braitenburg_Vehicles_UnrealEngine)               |
+| **Bank Customer Churn Analysis**           | Microsoft Power BI                              | [Repo](https://github.com/Natdan24/Bank-customer-churn-analysis)                     |
 | **Musical Instrument Recognition**         | Python, Librosa, Scikit-Learn, TensorFlow       | [Repo](https://github.com/Natdan24/Musical_Instrument_recognition)                   |
 | **Survey of Cervical Cancer Prediction**   | MATLAB, Image Processing, Probabilistic NN      | [Repo](https://github.com/Natdan24/Survey_cervical_Cancer_prediction)                |
 | **Hospital Readmission Prediction**        | Python, Pandas, Scikit-Learn, H2O AutoML        | [Repo](https://github.com/Natdan24/Hospital_Readmission_prediction)                   |
 | **AI Email Assistant**                     | Python, Streamlit, Mistral-7B, LM Studio        | [Repo](https://github.com/Natdan24/ai-email-assistant)                                |
-| **My Portfolio Site**                    | React, Vite, Tailwind                           | [Repo](https://github.com/Natdan24/my-portfolio)                                      |
+| **My Portfolio Site**                      | React, Vite, Tailwind                           | [Repo](https://github.com/Natdan24/my-portfolio)                                      |
 
 ---
 
 ## 📂 Project Details
+
+<details>
+<summary><strong>🤖 Braitenburg Vehicles Lab</strong></summary>
+
+- **Stack:** Unreal Engine 4/5, C++, Blueprints  
+- **Summary:** Implemented all four classic Braitenburg vehicles in a real-time 3D simulation. Each vehicle uses simple sensor-motor couplings—excitatory vs. inhibitory, ipsilateral vs. contralateral, linear vs. non-linear—to produce emergent behaviors like “Alive,” “Fear,” “Aggression,” “Love,” “Explorer,” and “Values & Special Tastes.”  
+- **Demo:**  
+  ![Braitenburg Vehicle in Unreal Engine](/screenshots/AutoScreenshot.png)  
+- 🔗 [View Repo](https://github.com/Natdan24/Braitenburg_Vehicles_UnrealEngine)
+
+</details>
+
+<details>
+<summary><strong>💳 Bank Customer Churn Analysis</strong></summary>
+
+- **Stack:** Microsoft Power BI  
+- **Summary:** End-to-end churn-prediction workflow and interactive dashboard built in Power BI.  
+- **Repository Contents:**  
+  - `data/bank_customers.csv` (raw dataset)  
+  - `model/churn_report.pbix` (Power BI report)  
+  - `docs/churn_report.pdf` (exported dashboard)  
+- 🔗 [View Repo](https://github.com/Natdan24/Bank-customer-churn-analysis)
+
+</details>
 
 <details>
 <summary><strong>🎵 Musical Instrument Recognition</strong></summary>
@@ -91,8 +117,8 @@ _M.Sc. Artificial Intelligence • Data Explorer • Tech Communicator_
 
 ## 🎓 Education & Certifications
 
-- **M.Sc. in Artificial Intelligence**, Brandenburg University of Technology
-- **B.Tech in Computer Science and Engineering** Sathyabama University 
+- **M.Sc. in Artificial Intelligence**, Brandenburg University of Technology  
+- **B.Tech in Computer Science and Engineering**, Sathyabama University  
 - **Certifications & Awards:**  
   - Elements of AI – University of Helsinki  
   - Python Training Certificate – IIT Bombay  
