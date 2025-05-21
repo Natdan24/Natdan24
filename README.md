@@ -4,6 +4,13 @@
 
 ---
 
+## 🚀 Live Demo
+
+* [Movie App Live Demo](https://natdan24.github.io/movie-app/)
+* [Portfolio Live Demo](https://natdan24.github.io/portfolio2025updated/)
+
+---
+
 ## 🎓 About Me
 
 * 🎓 Master’s student in AI at Brandenburg University of Technology, Germany
@@ -15,32 +22,20 @@
 
 ## 🔧 Skills & Tools
 
-|                                             Python                                             |                                                 JavaScript                                                 |                                             C++                                             |                                              SQL                                             |                                               MATLAB                                              |
-| :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat\&logo=postgresql\&logoColor=white) | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat\&logo=mathworks\&logoColor=white) |
+| :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 
-|                                             React                                            |                                           Vite                                           |                                                   Tailwind CSS                                                   |                                           CSS                                          |                                                 TMDb API                                                 |
-| :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white) | ![TMDb](https://img.shields.io/badge/TMDb_API-01D277?style=flat\&logo=themoviedatabase\&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white) | ![TMDb API](https://img.shields.io/badge/TMDb_API-01D277?style=flat\&logo=themoviedatabase\&logoColor=white) |
+| :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
 
-|                                                 TensorFlow                                                 |                                            Keras                                            |                                                   Scikit-Learn                                                   |                               Librosa                              |                                              H2O AutoML                                             |
-| :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat\&logo=keras\&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white) | ![Librosa](https://img.shields.io/badge/Librosa-000000?style=flat) | ![H2O AutoML](https://img.shields.io/badge/H2O_AutoML-23A9E1?style=flat\&logo=h2o\&logoColor=white) |
+| :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 
-|                                             Docker                                             |                                                 Kubernetes                                                 |                                          Git                                          |                                             GitHub                                             |                                                   Power BI                                                   |
-| :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat\&logo=microsoftpowerbi\&logoColor=white) |
+| :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
 
-|                                                Streamlit                                                |                                                    Unreal Engine                                                   |      Blueprints     | LM Studio | Mistral-7B |
-| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------: | :-------: | :--------: |
-| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat\&logo=unrealengine\&logoColor=white) | Blueprints (Unreal) | LM Studio | Mistral-7B |
-
-\------:|:----------:|:-----:|:------:|:---:|
-\| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat\&logo=keras\&logoColor=white) | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat\&logo=mathworks\&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white) |
-
-|                                              SQL                                             |                                          Git                                          |                                             GitHub                                             |                                             Docker                                             |                                                 Kubernetes                                                 |
-| :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat\&logo=postgresql\&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white) |
+| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat\&logo=unrealengine\&logoColor=white) | ![Blueprints (Unreal)](https://img.shields.io/badge/Blueprints-Unreal-4F4F4F?style=flat) | ![LM Studio](https://img.shields.io/badge/LM_Studio-000000?style=flat) | ![Mistral-7B](https://img.shields.io/badge/Mistral--7B-FFD700?style=flat) |
+| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 
 ---
 
@@ -54,7 +49,7 @@
 | **Survey of Cervical Cancer Prediction** | MATLAB, Image Processing, Probabilistic NN | [Repo](https://github.com/Natdan24/Survey_cervical_Cancer_prediction) |
 | **Hospital Readmission Prediction**      | Python, Pandas, Scikit-Learn, H2O AutoML   | [Repo](https://github.com/Natdan24/Hospital_Readmission_prediction)   |
 | **AI Email Assistant**                   | Python, Streamlit, Mistral-7B, LM Studio   | [Repo](https://github.com/Natdan24/ai-email-assistant)                |
-| **My Portfolio Site**                    | React, Vite, Tailwind                      | [Repo](https://github.com/Natdan24/my-portfolio)                      |
+| **My Portfolio Site**                    | React, Vite, Tailwind                      | [Repo](https://github.com/Natdan24/portfolio2025updated)              |
 | **Movie App**                            | React, Create React App, TMDb API, CSS     | [Repo](https://github.com/Natdan24/movie-app)                         |
 
 ---
@@ -132,7 +127,7 @@
 
 * **Stack:** React, Vite, Tailwind CSS
 * **Summary:** Personal portfolio showcasing AI and EDA projects in a single-page flip-card design.
-* 🔗 [View Repo](https://github.com/Natdan24/my-portfolio)
+* 🔗 [View Repo](https://github.com/Natdan24/portfolio2025updated)
 
 </details>
 
