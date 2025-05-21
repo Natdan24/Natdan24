@@ -41,16 +41,16 @@
 
 ## 🚀 Pinned Projects
 
-| Project                                  | Stack                                      | Link                                                                  |
-| :--------------------------------------- | :----------------------------------------- | :-------------------------------------------------------------------- |
-| **Braitenburg Vehicles Lab**             | Unreal Engine, C++, Blueprints             | [Repo](https://github.com/Natdan24/Braitenburg_Vehicles_UnrealEngine) |
-| **Bank Customer Churn Analysis**         | Microsoft Power BI                         | [Repo](https://github.com/Natdan24/Bank-customer-churn-analysis)      |
-| **Musical Instrument Recognition**       | Python, Librosa, Scikit-Learn, TensorFlow  | [Repo](https://github.com/Natdan24/Musical_Instrument_recognition)    |
-| **Survey of Cervical Cancer Prediction** | MATLAB, Image Processing, Probabilistic NN | [Repo](https://github.com/Natdan24/Survey_cervical_Cancer_prediction) |
-| **Hospital Readmission Prediction**      | Python, Pandas, Scikit-Learn, H2O AutoML   | [Repo](https://github.com/Natdan24/Hospital_Readmission_prediction)   |
-| **AI Email Assistant**                   | Python, Streamlit, Mistral-7B, LM Studio   | [Repo](https://github.com/Natdan24/ai-email-assistant)                |
-| **My Portfolio Site**                    | React, Vite, Tailwind                      | [Repo](https://github.com/Natdan24/portfolio2025updated)              |
-| **Movie App**                            | React, Create React App, TMDb API, CSS     | [Repo](https://github.com/Natdan24/movie-app)                         |
+| Project                                  | Stack                                      | Link                                                                                                                |                                        |                                                          |
+| :--------------------------------------- | :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------ | -------------------------------------- | -------------------------------------------------------- |
+| **Braitenburg Vehicles Lab**             | Unreal Engine, C++, Blueprints             | [Repo](https://github.com/Natdan24/Braitenburg_Vehicles_UnrealEngine)                                               |                                        |                                                          |
+| **Bank Customer Churn Analysis**         | Microsoft Power BI                         | [Repo](https://github.com/Natdan24/Bank-customer-churn-analysis)                                                    |                                        |                                                          |
+| **Musical Instrument Recognition**       | Python, Librosa, Scikit-Learn, TensorFlow  | [Repo](https://github.com/Natdan24/Musical_Instrument_recognition)                                                  |                                        |                                                          |
+| **Survey of Cervical Cancer Prediction** | MATLAB, Image Processing, Probabilistic NN | [Repo](https://github.com/Natdan24/Survey_cervical_Cancer_prediction)                                               |                                        |                                                          |
+| **Hospital Readmission Prediction**      | Python, Pandas, Scikit-Learn, H2O AutoML   | [Repo](https://github.com/Natdan24/Hospital_Readmission_prediction)                                                 |                                        |                                                          |
+| **AI Email Assistant**                   | Python, Streamlit, Mistral-7B, LM Studio   | [Repo](https://github.com/Natdan24/ai-email-assistant)                                                              |                                        |                                                          |
+| **My Portfolio Site**                    | React, Vite, Tailwind                      | [Repo](https://github.com/Natdan24/portfolio2025updated) / [Demo](https://natdan24.github.io/portfolio2025updated/) | React, Vite, Tailwind                  | [Repo](https://github.com/Natdan24/portfolio2025updated) |
+| **Movie App**                            | React, Create React App, TMDb API, CSS     | [Repo](https://github.com/Natdan24/movie-app) / [Demo](https://natdan24.github.io/movie-app/)                       | React, Create React App, TMDb API, CSS | [Repo](https://github.com/Natdan24/movie-app)            |
 
 ---
 
@@ -127,7 +127,7 @@
 
 * **Stack:** React, Vite, Tailwind CSS
 * **Summary:** Personal portfolio showcasing AI and EDA projects in a single-page flip-card design.
-* 🔗 [View Repo](https://github.com/Natdan24/portfolio2025updated)
+* 🔗 [View Repo](https://github.com/Natdan24/portfolio2025updated) / [Demo](https://natdan24.github.io/portfolio2025updated/)
 
 </details>
 
@@ -136,7 +136,7 @@
 
 * **Stack:** React, Create React App, TMDb API, CSS
 * **Summary:** A Create React App–based movie website that fetches and displays movie data from The Movie Database (TMDb) API. Users can browse popular movies, search by title, and view details including ratings and overview.
-* 🔗 [View Repo](https://github.com/Natdan24/movie-app)
+* 🔗 [View Repo](https://github.com/Natdan24/movie-app) / [Demo](https://natdan24.github.io/movie-app/)
 
 </details>
 
